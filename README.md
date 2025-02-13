@@ -1,4 +1,4 @@
-Task Manager
+# Task Manager
 
 Ein einfacher Task-Manager, mit dem du deine Aufgaben organisieren kannst. Er ermöglicht das Erstellen, Verwalten und Löschen von Aufgaben mit Beschreibung, Fälligkeitsdatum und Priorität.
 
